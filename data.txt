@@ -1,0 +1,13 @@
+clear
+slepp 
+jons
+jobs
+bg 1
+sleep 100 &
+jobs
+sleep 10 &
+sleep 10
+jobs
+bg 3
+jobs
+clear
